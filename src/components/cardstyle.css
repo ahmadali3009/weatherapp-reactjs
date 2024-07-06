@@ -1,0 +1,18 @@
+.card,.field{
+    border: 2px;
+    border-radius: 25px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    font-size: 15px;
+    
+}
+
+
+
+.btn{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding: 3px 4px;
+    margin: 5px;
+    height: 30px;
+}
